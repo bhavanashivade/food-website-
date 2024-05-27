@@ -19,20 +19,11 @@
 
 
 
-
-
-
-
-
-
-
  .F {
      margin-top: 50px;
      margin-left: 100px;
      margin-right: 50px;
  }
-
-
 
 
 
@@ -80,26 +71,11 @@
 
 
 
- /* .CB h5 {
-    color: grey;
-} */
-
-
-
-
  .CB .B {
      width: 90%;
      border: none;
      padding: 10px;
  }
-
-
-
-
-
-
-
-
 
 
 
@@ -151,13 +127,6 @@
 
 
 
- /* .CB h5 {
-    color: grey;
-} */
-
-
-
-
  .AB .B {
      width: 90%;
      border: none;
@@ -175,9 +144,6 @@
      text-align: center;
      margin-top: 1600px;
 
-
-
-
  }
 
 
@@ -189,6 +155,8 @@
      width: 700px;
      margin-top: 50px;
 
+     /* opacity: 0.4; */
+
  }
 
 
@@ -198,8 +166,6 @@
      position: relative;
      text-align: center;
      margin-top: 60px;
-
-
 
 
  }
@@ -237,15 +203,6 @@
      margin-top: 60px;
 
 
-
-
-
-
-
-
-
-
-
  }
 
 
@@ -269,9 +226,9 @@
 
      margin-bottom: 10px;
 
-
-
  }
+
+
 
  .popular {
      margin-bottom: 150px;
