@@ -1,0 +1,292 @@
+ .nav-menu {
+     height: 70px;
+     width: 100%;
+     background-color: rgb(241, 217, 217);
+     /* float: left; */
+
+ }
+
+ .nav-menu ul li {
+     list-style-type: none;
+     display: inline-block;
+     font-size: 30px;
+     margin-left: 290px;
+     color: black;
+     padding-top: 20px;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+ .F {
+     margin-top: 50px;
+     margin-left: 100px;
+     margin-right: 50px;
+ }
+
+
+
+
+
+ .F h2 {
+
+     /* margin-top: 100px; */
+     text-align: center;
+
+     ;
+
+ }
+
+
+
+ .CB {
+     height: 400px;
+     width: 25%;
+     float: left;
+     /* margin-left: 100px; */
+     margin-right: -15px;
+ }
+
+
+
+ .CB p {
+     text-align: justify;
+     width: 90%;
+
+ }
+
+ .CB h2 {
+     margin-top: 20px;
+ }
+
+
+
+
+ .CB img {
+     width: 90%;
+     height: 400px;
+
+
+ }
+
+
+
+
+ /* .CB h5 {
+    color: grey;
+} */
+
+
+
+
+ .CB .B {
+     width: 90%;
+     border: none;
+     padding: 10px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .H {
+     margin-top: 700px;
+     margin-left: 100px;
+     margin-right: 50px;
+ }
+
+
+
+
+
+ .H h2 {
+
+     /* margin-top: 100px; */
+     text-align: center;
+
+ }
+
+
+
+ .AB {
+     height: 400px;
+     width: 25%;
+     float: left;
+     /* margin-left: 100px; */
+     margin-right: -15px;
+ }
+
+
+
+ .AB p {
+     text-align: justify;
+     width: 90%;
+ }
+
+
+
+
+ .AB img {
+     width: 90%;
+     height: 400px;
+     margin-top: 120px;
+
+ }
+
+
+
+
+ /* .CB h5 {
+    color: grey;
+} */
+
+
+
+
+ .AB .B {
+     width: 90%;
+     border: none;
+     padding: 10px;
+
+
+ }
+
+
+
+ .mn .about h1 {
+
+
+     position: relative;
+     text-align: center;
+     margin-top: 1600px;
+
+
+
+
+ }
+
+
+
+ .image .i img {
+
+     margin-left: 400px;
+     height: 600x;
+     width: 700px;
+     margin-top: 50px;
+
+ }
+
+
+ .ml .about h1 {
+
+
+     position: relative;
+     text-align: center;
+     margin-top: 60px;
+
+
+
+
+ }
+
+ .ml .about h3 {
+
+     position: relative;
+     text-align: center;
+
+ }
+
+ .ml .about p {
+
+     position: relative;
+
+     text-align: center;
+
+     margin-left: 100px;
+     margin-right: 50px;
+
+
+ }
+
+
+ .o {
+     display: flex;
+
+     margin-left: 100px;
+     margin-right: 50px;
+
+     border-radius: 10px;
+
+     gap: 130px;
+
+     margin-top: 60px;
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+ .o .blogs .blog img {
+     height: 90px;
+ }
+
+
+ .blog {
+     display: flex;
+
+
+ }
+
+
+ .blog img {
+     margin-right: 30px;
+ }
+
+ .popular .b {
+
+     margin-bottom: 10px;
+
+
+
+ }
+
+ .popular {
+     margin-bottom: 150px;
+ }
+
+
+
+ .popular .b button {
+
+     color: white;
+     background-color: rgb(138, 133, 133);
+ }
+
+ .popular .b .n {
+     color: white;
+
+     background-color: black;
+ }
